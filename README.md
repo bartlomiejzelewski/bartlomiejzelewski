@@ -13,4 +13,4 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.atlassian.com%2Fpl%2Fcustomers%2Fnextiva&psig=AOvVaw3cF_sSjquIk1GlwDn9TJCY&ust=1673356423888000&source=images&cd=vfe&ved=2ahUKEwipuIzLyLr8AhWhs4sKHUYjDHwQjRx6BAgAEAo
-"/>
+">
