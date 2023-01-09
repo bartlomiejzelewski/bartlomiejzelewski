@@ -10,13 +10,7 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 ![Profile views](https://gpvc.arturio.dev/bartlomiejzelewski)  
 
-<img src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/bNFJGXX/asdaa.png" alt="asdaa" border="0"></a>
-"/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/bNFJGXX/asdaa.png" alt="asdaa" border="0"></a>
 
-[![image alt text](https://ibb.co/bNFJGXX)](<a href="https://imgbb.com/"><img src="https://i.ibb.co/bNFJGXX/asdaa.png" alt="asdaa" border="0"></a>
-)
-
-![image text](https://ibb.co/bNFJGXX)
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/JrqQSHH/asdaa.png" alt="asdaa" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/bNFJGXX/asdaa.png" alt="asdaa" border="0"></a>
