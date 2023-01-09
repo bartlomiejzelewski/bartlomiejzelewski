@@ -14,4 +14,4 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 https://pbs.twimg.com/profile_images/1578524931146514433/yEgG30uQ_400x400.jpg
 
-<img src="https://pbs.twimg.com/profile_images/1578524931146514433/yEgG30uQ_400x400.jpg"/>
+<img src="https://pbs.twimg.com/profile_images/1578524931146514433/yEgG30uQ_48x48.jpg"/>
