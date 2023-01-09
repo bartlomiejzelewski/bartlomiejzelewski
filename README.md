@@ -17,4 +17,5 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bartlomiejzelewski&show_icons=true&theme=tokyonight)
+
 ![Profile views](https://gpvc.arturio.dev/bartlomiejzelewski)
