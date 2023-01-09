@@ -8,7 +8,7 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 ### Linki:
 [<img src='https://img.icons8.com/3d-fluency/135/null/github.png' alt='github' height='40'>](https://github.com/bartlomiejzelewski)  [<img src='https://img.icons8.com/color/96/null/linkedin-circled--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bartłomiej-Zelewski/)  
 
-[<img src='https://img.icons8.com/3d-fluency/94/null/gmail.png' alt='gmail' height='40'>]
+[<img src='https://img.icons8.com/3d-fluency/94/null/gmail.png' alt='gmail' height='40'>](bzelewski25@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bartlomiejzelewski&show_icons=true&theme=tokyonight)
 
