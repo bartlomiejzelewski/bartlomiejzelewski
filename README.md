@@ -5,7 +5,7 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 <img src="https://img.icons8.com/color/48/null/jira.png"/> / <a href="https://imgbb.com/"><img src="https://i.ibb.co/bNFJGXX/asdaa.png" alt="asdaa" border="0"></a>
  / POSTMAN / VISUAL STUDIO CODE / GIT
 ### Linki:
-[<img src='https://img.icons8.com/3d-fluency/94/null/github.png' alt='github' height='40'>](https://github.com/bartlomiejzelewski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bartłomiej-Zelewski/)  
+[<img src='https://img.icons8.com/3d-fluency/135/null/github.png' alt='github' height='40'>](https://github.com/bartlomiejzelewski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bartłomiej-Zelewski/)  
 
 
 
