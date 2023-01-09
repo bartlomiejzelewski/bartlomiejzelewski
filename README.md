@@ -22,3 +22,4 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
 
+<img src="https://img.icons8.com/3d-fluency/94/null/github.png"/>
