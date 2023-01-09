@@ -15,4 +15,4 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 <img src="<a href=https://zapodaj.net/886d94232330b.png.html>asdaa.png</a>"/>
 
-[alt text](https://zapodaj.net/886d94232330b.png.html)
+[alt text](<a href=https://zapodaj.net/886d94232330b.png.html>asdaa.png</a>)
