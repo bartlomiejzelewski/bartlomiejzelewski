@@ -21,3 +21,4 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 ![Profile views](https://gpvc.arturio.dev/bartlomiejzelewski)
 
 <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+
