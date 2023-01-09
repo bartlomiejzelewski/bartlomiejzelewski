@@ -11,7 +11,5 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 ![Profile views](https://gpvc.arturio.dev/bartlomiejzelewski)  
 
 
-![https://zapodaj.net/886d94232330b.png.html
-](https://zapodaj.net/886d94232330b.png.html)
 
-<img title="https://zapodaj.net/886d94232330b.png.html">
+<img title="<a href=https://zapodaj.net/886d94232330b.png.html>asdaa.png</a>">
