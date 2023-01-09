@@ -15,4 +15,4 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 <img src="https://zapodaj.net/886d94232330b.png.html"/>
 
-![alt text](https://zapodaj.net/886d94232330b.png.html)
+(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
