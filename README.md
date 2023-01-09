@@ -13,3 +13,5 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 
 <img title="https://imgupload.pl/zdjecie/asdaa.FIFPY">
+
+<img src="https://imgupload.pl/zdjecie/asdaa.FIFPY"/>
