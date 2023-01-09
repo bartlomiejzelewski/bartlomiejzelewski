@@ -9,3 +9,5 @@ JIRA / TESTRAIL / POSTMAN / VISUAL STUDIO CODE / GIT
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejzelewski&show_icons=true&theme=tokyonight)  
 
 ![Profile views](https://gpvc.arturio.dev/bartlomiejzelewski)  
+
+![alt text](https://icons8.com/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment)
