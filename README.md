@@ -14,3 +14,5 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 
 <img src="https://zapodaj.net/886d94232330b.png.html"/>
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "https://zapodaj.net/886d94232330b.png.html")
