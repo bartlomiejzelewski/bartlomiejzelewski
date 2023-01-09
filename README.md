@@ -14,4 +14,4 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 ![https://zapodaj.net/886d94232330b.png.html
 ](https://zapodaj.net/886d94232330b.png.html)
 
-<img title="https://zapodaj.net/886d94232330b.png.html"
+<img title="https://zapodaj.net/886d94232330b.png.html">
