@@ -6,6 +6,6 @@ JIRA / TESTRAIL / POSTMAN / VISUAL STUDIO CODE / GIT
 ### Linki:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bartlomiejzelewski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bartłomiej-Zelewski/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejzelewski&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejzelewski&show_icons=true&theme=tokyonight)  
 
 ![Profile views](https://gpvc.arturio.dev/bartlomiejzelewski)  
