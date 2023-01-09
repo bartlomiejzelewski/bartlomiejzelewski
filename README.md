@@ -1,5 +1,4 @@
 ### Cześć 👋 jestem Bartek
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="CZEŚĆ">
 Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynier w dziale spedycji. Jestem otwarty na nowe wyzwania. Zainteresowałem się testowaniem i obecnie zdobywam wiedzę podczas intensywnego kursu „Tester Oprogramowania”. Staram rozwijać się i dokształcać w czasie wolnym od pracy korzystając m.in. z podcastów, poradników i kanałów branżowych na Youtube i w siec
 
 ### Umiejętności: 
