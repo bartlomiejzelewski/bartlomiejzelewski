@@ -1,7 +1,7 @@
 # **Cześć 👋 jestem Bartek**
 Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynier w dziale spedycji. Jestem otwarty na nowe wyzwania. Zainteresowałem się testowaniem i obecnie zdobywam wiedze odbywając kurs „Tester Oprogramowania”. Staram rozwijać się i dokształcać w wolnych chwilach korzystając m.in. z podcastów, poradników i kanałów branżowych na Youtube i w sieci. Oto mój skromny profil, który z czasem będzię coraz bogatszy :wink:
 
-### ****Umiejętności****:
+### ****Narzędzia****:
 
 <img src="https://img.icons8.com/color/48/null/jira.png"/>  <a href="https://imgbb.com/"><img src="https://i.ibb.co/bNFJGXX/asdaa.png" alt="asdaa" borde="0"></a>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/color/48/null/git.png"/>
