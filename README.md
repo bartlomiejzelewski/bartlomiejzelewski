@@ -1,5 +1,5 @@
 # **Cześć 👋 jestem Bartek**
-Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynier w dziale spedycji. Jestem otwarty na nowe wyzwania. Zainteresowałem się testowaniem i obecnie zdobywam wiedze odbywając kurs „Tester Oprogramowania”. Staram rozwijać się i dokształcać w wolnych chwilach korzystając m.in. z podcastów, poradników i kanałów branżowych na Youtube i w sieci. Oto mój skromny profil, który z czasem będzię coraz bogatszy :wink:
+Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynier w dziale spedycji. Jestem otwarty na nowe wyzwania. Zainteresowałem się testowaniem i po niedawno ukończonym intensywnym kursie "Trster Oprogramowania" staram się rozwijać i dokształcać w wolnych chwilach, korzystając m.in. z podcastów, poradników i kanałów branżowych na Youtube i w sieci. Oto mój skromny profil, który z czasem będzię coraz bogatszy :wink:
 
 ### ****Narzędzia****:
 
@@ -15,6 +15,12 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 [<img src='https://img.icons8.com/3d-fluency/135/null/github.png' alt='github' height='40'>](https://github.com/bartlomiejzelewski)  [<img src='https://img.icons8.com/color/96/null/linkedin-circled--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bartłomiej-Zelewski/) <a href="mailto:bzelewski25@gmail.com?"><img src='https://img.icons8.com/fluency/48/null/gmail-new.png' alt='gmail' height='40'/></a>
 
 --- 
+
+### ****Certyfikaty****:
+
+https://app.diplomasafe.com/pl-PL/pdip/de5d113e1618528417a8d6a2c86c4535a7cee9e1d/1
+
+---
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bartlomiejzelewski&show_icons=true&theme=tokyonight)
 
 <p align="left"><img src="https://img.shields.io/github/stars/bartlomiejzelewski?label=Stars" alt="stars" width="60"/>
