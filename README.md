@@ -18,8 +18,7 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 ### ****Certyfikaty****:
 
-<img src="[https://img.icons8.com/color/48/null/jira.png](https://app.diplomasafe.com/pl-PL/diploma/de5d113e1618528417a8d6a2c86c4535a7cee9e1d)"/>
-
+https://app.diplomasafe.com/pl-PL/diploma/de5d113e1618528417a8d6a2c86c4535a7cee9e1d/tester-oprogramowania
 ---
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bartlomiejzelewski&show_icons=true&theme=tokyonight)
 
