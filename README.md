@@ -19,7 +19,6 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 ### ****Certyfikaty****:
 
 https://app.diplomasafe.com/pl-PL/diploma/de5d113e1618528417a8d6a2c86c4535a7cee9e1d/tester-oprogramowania
-<img src="https://app.diplomasafe.com/pl-PL/diploma/de5d113e1618528417a8d6a2c86c4535a7cee9e1d/tester-oprogramowania"
 
 
 ---
