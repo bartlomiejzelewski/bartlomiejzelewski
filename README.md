@@ -22,6 +22,13 @@ https://app.diplomasafe.com/pl-PL/diploma/de5d113e1618528417a8d6a2c86c4535a7cee9
 
 
 ---
+
+### ****Projekty****:
+
+[Projekt MrBuggy3]([url](https://github.com/bartlomiejzelewski/Projekt-MrBuggy3))
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bartlomiejzelewski&show_icons=true&theme=tokyonight)
 
 <p align="left"><img src="https://img.shields.io/github/stars/bartlomiejzelewski?label=Stars" alt="stars" width="60"/>
