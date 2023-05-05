@@ -27,6 +27,8 @@ Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynie
 
 [Projekt MrBuggy3](https://github.com/bartlomiejzelewski/Projekt-MrBuggy3)
 
+[Projekt Testy REST API Trello Postman](https://github.com/bartlomiejzelewski/Testy-REST-API-Trello---Postman-Collection)
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bartlomiejzelewski&show_icons=true&theme=tokyonight)
