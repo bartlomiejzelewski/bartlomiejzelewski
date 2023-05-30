@@ -1,10 +1,9 @@
 # **Cześć 👋 jestem Bartek**
-Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynier w dziale spedycji. Jestem otwarty na nowe wyzwania. Zainteresowałem się testowaniem i po niedawno ukończonym intensywnym kursie "Trster Oprogramowania" staram się rozwijać i dokształcać w wolnych chwilach, korzystając m.in. z podcastów, poradników i kanałów branżowych na Youtube i w sieci. Oto mój skromny profil, który z czasem będzię coraz bogatszy :wink:
+Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynier w dziale spedycji. Jestem otwarty na nowe wyzwania. Zainteresowałem się testowaniem i po niedawno ukończonym intensywnym kursie "Tester Oprogramowania" staram się rozwijać i dokształcać w wolnych chwilach, korzystając m.in. z podcastów, poradników i kanałów branżowych na Youtube i w sieci. Oto mój skromny profil, który z czasem będzię coraz bogatszy :wink:
 
 ### ****Narzędzia****:
 
-<img src="https://img.icons8.com/color/48/null/jira.png"/>  <a href="https://imgbb.com/"><img src="https://i.ibb.co/bNFJGXX/asdaa.png" alt="asdaa" borde="0"></a>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/color/48/null/git.png"/>
+<img src="https://img.icons8.com/color/48/null/jira.png"/>  <a href="https://imgbb.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/color/48/null/git.png"/>
   <img src="https://img.icons8.com/color/49/null/trello.png"/>
   <img src="https://imgupload.pl/images/2023/01/09/screenpresso-logosdd.png" alt="screenpresso-logosdd.png" borde="0" />
   <img src="https://img.icons8.com/ios/48/2962FF/chrome--v1.png"/>
