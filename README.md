@@ -1,5 +1,5 @@
 # **Cześć 👋 jestem Bartek**
-Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynier w dziale spedycji. Jestem otwarty na nowe wyzwania. Zainteresowałem się testowaniem i po niedawno ukończonym intensywnym kursie "Tester Oprogramowania" staram się rozwijać i dokształcać w wolnych chwilach, korzystając m.in. z podcastów, poradników i kanałów branżowych na Youtube i w sieci. Oto mój skromny profil, który z czasem będzię coraz bogatszy :wink:
+Jestem aspirującym testerem oprogramowania. Na co dzień pracuje jako magazynier w dziale spedycji. Jestem otwarty na nowe wyzwania. Zainteresowałem się testowaniem i po niedawno ukończonym intensywnym kursie "Tester Oprogramowania" staram się rozwijać i dokształcać w wolnych chwilach. Dlatego m.in. przygotowuję się do egzaminu ISTQB czytając sylabus, korzystając z podcastów, poradników i kanałów branżowych na Youtube i w sieci. Oto mój skromny profil, który z czasem będzię coraz bogatszy :wink:
 
 ### ****Narzędzia****:
 
